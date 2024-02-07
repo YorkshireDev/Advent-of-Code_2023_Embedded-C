@@ -1,5 +1,3 @@
-
-
 #include <array>
 #include <string>
 #include <time.h>
