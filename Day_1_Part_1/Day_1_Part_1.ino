@@ -11,7 +11,7 @@ std::array<std::string, 1000> input_list;
 
 void parse()
 {
-  char input_str[] = "..." // Input is pasted here as a multi-line string that is 1000 lines long.
+  char input_str[] =  "...";
   
   unsigned short int i = 0;
   
