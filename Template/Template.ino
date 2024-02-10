@@ -53,7 +53,12 @@ void setup()
 
 void runOnce()
 {
-  // Solution Here !!!
+  for (unsigned short i = 0; i < sizeof(input_list) / sizeof(input_list[0]); i++)
+  {
+    const char* str = input_list[i].c_str();
+    
+    // Solution Here !!!
+  }
 
   printAnswer();
 }
