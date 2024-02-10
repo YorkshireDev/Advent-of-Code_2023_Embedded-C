@@ -28,3 +28,5 @@ Third Line
 So I made a quick Python script that I paste into the same directory as `Input.TXT` (omitted when pushing due to AoC licensing), and it will output the input list with the C syntax so I can just paste it into the code.
 
 It has to be pasted into the code itself because a microcontroller has no operating system, you just flash the ROM with hex code and it starts executing - there is no concept of a filesystem, so no text files! Only a big block of code :)
+
+It will also tell me what the longest line is, which I can use to help me with sizing char arrays in some circumstances.
